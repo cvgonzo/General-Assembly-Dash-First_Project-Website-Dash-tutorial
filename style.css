@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 10%;
+    text-align: center;
+    background: url("sky.png");
+    background-size: cover;
+    color: #fefefe;
+    font-family: 'Lora', serif, Helvetica;
+
+}
+img{
+    width: auto;
+    height: 150px;
+}
+h1{
+    font-size: 2.5em;
+}
+#me{
+    border-radius: 75px;
+}
+p{
+    font-size: 1.2em;
+    line-height: 32px;
+    margin-left: 18%;
+    margin-right: 18%;
+}
+input{
+    border: 0;
+    font-size: 1em;
+    padding: 5px;
+    margin-top: 10px;
+}
+input[type="submit"]{
+    color: white;
+    background: #778899;
+    border-radius: 5px;
+}
